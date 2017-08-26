@@ -9,3 +9,6 @@ https://github.com/bmitch/churn-php
 :D
 Ver também: https://github.com/exakat/php-static-analysis-tools (merece estar em seus bookmarks)
 
+## Youtube
+### Automatização
+https://github.com/tokland/youtube-upload
