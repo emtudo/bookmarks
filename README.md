@@ -9,6 +9,11 @@ https://github.com/bmitch/churn-php
 :D
 Ver também: https://github.com/exakat/php-static-analysis-tools (merece estar em seus bookmarks)
 
+## Site
+### Linux | Comunidade GNU/Linux SempreUPdate
+https://sempreupdate.com.br/
+
 ## Youtube
 ### Automatização
 https://github.com/tokland/youtube-upload
+
