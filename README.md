@@ -17,3 +17,7 @@ https://sempreupdate.com.br/
 ### Automatização
 https://github.com/tokland/youtube-upload
 
+## Vue
+### Vuejs Feed
+https://vuejsfeed.com/
+
