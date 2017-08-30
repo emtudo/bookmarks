@@ -17,7 +17,10 @@ https://sempreupdate.com.br/
 ### Automatização
 https://github.com/tokland/youtube-upload
 
-## VsCode
+## VS Code
+###  Awesome VS Code
+https://github.com/viatsko/awesome-vscode?fref=gc&dti=452775344744526
+
 ### Extensios
 https://gist.github.com/paulofreitas/e221992982b4fa95c7393f583df3f4a4
 
