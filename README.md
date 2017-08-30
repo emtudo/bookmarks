@@ -21,3 +21,6 @@ https://github.com/tokland/youtube-upload
 ### Vuejs Feed
 https://vuejsfeed.com/
 
+### VueValidate
+https://github.com/baianat/vee-validate
+
