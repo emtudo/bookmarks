@@ -1,4 +1,4 @@
-# favorite
+# Favorite
 Lista para ver/rever mais tarde
 
 
@@ -17,10 +17,13 @@ https://sempreupdate.com.br/
 ### Automatização
 https://github.com/tokland/youtube-upload
 
+## VsCode
+### Extensios
+https://gist.github.com/paulofreitas/e221992982b4fa95c7393f583df3f4a4
+
 ## Vue
 ### Vuejs Feed
 https://vuejsfeed.com/
 
 ### VueValidate
 https://github.com/baianat/vee-validate
-
