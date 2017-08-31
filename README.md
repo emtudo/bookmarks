@@ -3,6 +3,10 @@ Lista para ver/rever mais tarde
 
 
 ## PHP
+### Framework (Laravel)
+Helpers
+https://github.com/sebastiaanluca/laravel-helpers
+
 ### Performace
 Mais uma ferramenta de análise estática de código para ajudar a reduzir a complexidade ciclomática de projetos. Muito útil!
 https://github.com/bmitch/churn-php
