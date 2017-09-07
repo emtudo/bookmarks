@@ -12,6 +12,9 @@ Lista para ver/rever mais tarde
 https://github.com/bmitch/churn-php
  - Ver também: https://github.com/exakat/php-static-analysis-tools (merece estar em seus bookmarks)
 
+## S3 Alternative
+https://minio.io/
+
 ## Site
 - Linux | Comunidade GNU/Linux SempreUPdate
       https://sempreupdate.com.br/
