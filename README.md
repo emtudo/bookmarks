@@ -21,6 +21,9 @@ https://minio.io/
 - Linux | Comunidade GNU/Linux SempreUPdate
       https://sempreupdate.com.br/
 
+## Video conference
+- https://appear.in
+
 ## Youtube
 ### Automatização
 - https://github.com/tokland/youtube-upload
