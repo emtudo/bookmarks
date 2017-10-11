@@ -36,6 +36,9 @@ https://minio.io/
 - https://gist.github.com/paulofreitas/e221992982b4fa95c7393f583df3f4a4
 
 ## Vue
+### Admin Dashboard - Vuestic
+https://github.com/epicmaxco/vuestic-admin
+
 ### Vuejs Feed
 - https://vuejsfeed.com/
 
