@@ -7,6 +7,9 @@ https://medium.com/trainingcenter/protegendo-dados-sensíveis-com-git-crypt-9fca
 
 
 ## PHP
+## Sugestão de Carreira e Cargos
+https://github.com/abraphp/CarreiraPHP
+
 ### Framework (Laravel)
 - Apiato
     https://github.com/apiato/apiato
