@@ -7,6 +7,9 @@ https://medium.com/trainingcenter/protegendo-dados-sensíveis-com-git-crypt-9fca
 
 
 ## PHP
+## Teste online de código
+https://3v4l.org
+
 ## Sugestão de Carreira e Cargos
 https://github.com/abraphp/CarreiraPHP
 
