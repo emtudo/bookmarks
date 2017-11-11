@@ -4,7 +4,8 @@ Lista para ver/rever mais tarde
 ## GIT
 ### GIT Crypt
 https://medium.com/trainingcenter/protegendo-dados-sensíveis-com-git-crypt-9fca13e6835b
-
+### Guia de como proceder em desastres no Git
+https://github.com/k88hudson/git-flight-rules
 
 ## PHP
 ## Teste online de código
