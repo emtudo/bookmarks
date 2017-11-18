@@ -30,6 +30,10 @@ https://github.com/bmitch/churn-php
 ## S3 Alternative
 https://minio.io/
 
+## Security
+- Descobrir ASN: https://www.ultratools.com/tools/asnInfo
+- The 10 Worst Botnet ASNs: https://www.spamhaus.org/statistics/botnet-asn/
+
 ## Site
 - Linux | Comunidade GNU/Linux SempreUPdate
       https://sempreupdate.com.br/
