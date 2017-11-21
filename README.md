@@ -1,6 +1,9 @@
 # Favorite
 Lista para ver/rever mais tarde
 
+## GraphQL
+ Pacote para trabalhar com Laravel - https://github.com/Folkloreatelier/laravel-graphql
+
 ## GIT
 ### GIT Crypt
 https://medium.com/trainingcenter/protegendo-dados-sensíveis-com-git-crypt-9fca13e6835b
