@@ -66,7 +66,7 @@ https://github.com/epicmaxco/vuestic-admin
 - https://github.com/baianat/vee-validate
 
 ### Vue + Cordova Starter kit
-https://github.com/igortrinidad/vue-cordova-starter-kit
+- https://github.com/igortrinidad/vue-cordova-starter-kit
 
 ## Web Builder
 - https://github.com/artf/grapesjs
