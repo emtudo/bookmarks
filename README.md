@@ -24,6 +24,8 @@ https://github.com/abraphp/CarreiraPHP
     https://github.com/sebastiaanluca/laravel-helpers
 - Multi-auth
     https://github.com/Hesto/multi-auth
+- Convert Your SQL to Laravel Builder with Orator
+    http://www.midnightcowboycoder.com
 
 ### Performace
 - Mais uma ferramenta de análise estática de código para ajudar a reduzir a complexidade ciclomática de projetos. Muito útil!
