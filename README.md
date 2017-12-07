@@ -1,6 +1,9 @@
 # Favorite
 Lista para ver/rever mais tarde
 
+## Dev docs
+http://devdocs.io
+
 ## GraphQL
  Pacote para trabalhar com Laravel - https://github.com/Folkloreatelier/laravel-graphql
 
