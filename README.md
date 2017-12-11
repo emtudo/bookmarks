@@ -76,6 +76,9 @@ https://github.com/epicmaxco/vuestic-admin
 ### Vue-work
  - https://github.com/israelss/vue-worker
 
+### Vue-slider
+ - https://github.com/NightCatSama/vue-slider-component
+
 ### Vue-js-modal
 - https://github.com/euvl/vue-js-modal
 
