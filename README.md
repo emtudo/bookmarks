@@ -13,6 +13,9 @@ https://medium.com/trainingcenter/protegendo-dados-sensíveis-com-git-crypt-9fca
 ### Guia de como proceder em desastres no Git
 https://github.com/k88hudson/git-flight-rules
 
+## Mysql
+Export from MySQL Workbench to a Laravel Migration - https://laravel-news.com/export-from-mysql-workbench-to-a-laravel-migration
+
 ## PHP
 ## Teste online de código
 https://3v4l.org
