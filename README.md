@@ -1,6 +1,9 @@
 # Favorite
 Lista para ver/rever mais tarde
 
+## Components
+ - https://devarchy.com/vue (Angular, React, Redux, Vue)
+ 
 ## Dev docs
 http://devdocs.io
 
