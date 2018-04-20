@@ -40,6 +40,8 @@ https://github.com/abraphp/CarreiraPHP
     http://www.midnightcowboycoder.com
 - Laravel SSH Tunnel
     https://github.com/stechstudio/laravel-ssh-tunnel
+- Backup
+    https://docs.spatie.be/laravel-backup/v3/introduction
 
 ### Performace
 - Mais uma ferramenta de análise estática de código para ajudar a reduzir a complexidade ciclomática de projetos. Muito útil!
