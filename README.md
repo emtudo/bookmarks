@@ -1,6 +1,9 @@
 # Favorite
 Lista para ver/rever mais tarde
 
+## Servers
+ - DNS checker https://dnschecker.org
+
 ## Components
  - https://devarchy.com/vue (Angular, React, Redux, Vue)
  
