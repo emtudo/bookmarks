@@ -45,6 +45,8 @@ https://github.com/abraphp/CarreiraPHP
     https://github.com/stechstudio/laravel-ssh-tunnel
 - Backup
     https://docs.spatie.be/laravel-backup/v3/introduction
+- Query builder
+    https://github.com/spatie/laravel-query-builder
 
 ### Performace
 - Mais uma ferramenta de análise estática de código para ajudar a reduzir a complexidade ciclomática de projetos. Muito útil!
@@ -79,6 +81,9 @@ https://minio.io/
 ## Vue
 ### Admin Dashboard - Vuestic
 https://github.com/epicmaxco/vuestic-admin
+
+Vue api query builder
+https://github.com/robsontenorio/vue-api-query
 
 ### Vuejs Feed
 - https://vuejsfeed.com/
