@@ -82,7 +82,7 @@ https://minio.io/
 ### Admin Dashboard - Vuestic
 https://github.com/epicmaxco/vuestic-admin
 
-Vue api query builder
+### Vue api query builder
 https://github.com/robsontenorio/vue-api-query
 
 ### Vuejs Feed
