@@ -1,6 +1,9 @@
 # Favorite
 Lista para ver/rever mais tarde
 
+## Docs
+ - https://github.com/pedronauck/docz
+
 ## Servers
  - DNS checker https://dnschecker.org
 
