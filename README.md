@@ -3,6 +3,11 @@ Lista para ver/rever mais tarde
 
 ## Docs
  - https://github.com/pedronauck/docz
+ 
+## Load test
+ - https://jmeter.apache.org
+ - https://loadimpact.com
+ - https://flood.io/
 
 ## Servers
  - DNS checker https://dnschecker.org
