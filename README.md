@@ -51,6 +51,8 @@ https://github.com/abraphp/CarreiraPHP
     http://www.midnightcowboycoder.com
 - Laravel SSH Tunnel
     https://github.com/stechstudio/laravel-ssh-tunnel
+- LogViewer
+    https://github.com/ARCANEDEV/LogViewer
 - Backup
     https://docs.spatie.be/laravel-backup/v3/introduction
 - Query builder
