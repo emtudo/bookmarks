@@ -89,6 +89,9 @@ https://minio.io/
 - https://gist.github.com/paulofreitas/e221992982b4fa95c7393f583df3f4a4
 
 ## Vue
+### Vue Media - Resposible style
+  https://github.com/ktsn/vue-media-loader
+
 ### Admin Dashboard - Vuestic
 https://github.com/epicmaxco/vuestic-admin
 
