@@ -57,6 +57,8 @@ https://github.com/abraphp/CarreiraPHP
     https://docs.spatie.be/laravel-backup/v3/introduction
 - Query builder
     https://github.com/spatie/laravel-query-builder
+- API Explorer
+    https://github.com/netojose/laravel-api-explorer
 
 ### Performace
 - Mais uma ferramenta de análise estática de código para ajudar a reduzir a complexidade ciclomática de projetos. Muito útil!
