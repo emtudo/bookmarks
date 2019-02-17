@@ -1,6 +1,9 @@
 # Favorite
 Lista para ver/rever mais tarde
 
+## Boot (pendrive)
+ https://www.balena.io/etcher/
+
 ## Docs
  - https://github.com/pedronauck/docz
  
